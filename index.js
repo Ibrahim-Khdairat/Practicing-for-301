@@ -219,7 +219,7 @@
 //   countTrue([true,true,false,true]);
 
 
-// function evenOrOdd(str) {
+// function   console.log(evenOrOdd(str) {
 // 	let even = 0;
 // 	let odd = 0;
 // 	for (let i=0;i<str.length;i++)
@@ -236,7 +236,7 @@
 // }
 
 
-// console.log(evenOrOdd("4589620"));
+// console.log(  console.log(evenOrOdd("4589620"));
 
 
 
@@ -271,3 +271,52 @@
 
 
 // console.log(toArray({}));
+
+
+
+// function  evenOrOdd(str) {
+//     let even = 0;
+//     let odd = 0;
+//     for (let i=0;i<str.length;i++)
+//        {
+//             if(str[i]%2===0){ even++; }
+//            else{ odd++ };
+           
+//         }
+    
+//    if(even == odd){ return "Even and Odd are the same"; }
+//     else if (even > odd) { return "Even is greater than Odd"; }
+//     else if (odd > even) { return "Odd is greater than Even" ;}
+   
+// }
+
+//   console.log(evenOrOdd('12345'));
+//   console.log(evenOrOdd('143'));   
+//   console.log(evenOrOdd('2221'));   
+//   console.log(evenOrOdd('23456'));   
+//   console.log(evenOrOdd('4321'));  
+//   console.log(evenOrOdd('3245'));  
+//    console.log(evenOrOdd('14256'));   
+//    console.log(evenOrOdd('11234'));   
+//    console.log(evenOrOdd('1734'));  
+//    console.log(evenOrOdd('145'));  
+//    console.log(evenOrOdd('22471'));   
+//    console.log(evenOrOdd('213613'));   
+//    console.log(evenOrOdd('23456'));   
+//    console.log(evenOrOdd('9738'));  
+//    console.log(evenOrOdd('34522'));   
+//    console.log(evenOrOdd('12378'));  
+//    console.log(evenOrOdd('45228'));   
+//    console.log(evenOrOdd('4455')); 
+//    console.log(evenOrOdd('6721'));   
+//    console.log(evenOrOdd('92184'));    
+//    console.log(evenOrOdd('12'));   
+//    console.log(evenOrOdd('123'));  
+//    console.log(evenOrOdd('112')); 
+//    console.log(evenOrOdd('124'));   
+
+
+
+
+
+
